@@ -47,7 +47,7 @@ header#cabecalho h2 {
 	margin-top: 0px;
 }
 
-/* Formata��o de imagens com legendas*/
+/* Formatação de imagens com legendas */
 
 figure.foto-legenda {
 	position: relative;
@@ -77,7 +77,7 @@ figure.foto-legenda:hover figcaption {
 	opacity: 1;
 }
 
-/* Formatação do Menu*/
+/* Formatação do Menu */
 
 nav#menu{
 	display:block;
